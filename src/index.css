@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --primary: rgb(78, 128, 161);
+  --secondary: rgb(16, 17, 17);
+  --light-shade: rgb(175, 168, 168);
+  --dark-shade: rgb(48, 46, 46);
+  --dark-shade-shadow: rgb(17, 17, 17);
+  --dark-accent: rgb(87, 83, 83);
+}

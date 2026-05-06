@@ -1,0 +1,6 @@
+#todo-view {
+  display: flex;
+  justify-content: center;
+  background-color: var(--primary);
+  height: 100vh;
+}
